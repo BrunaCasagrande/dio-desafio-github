@@ -1,0 +1,23 @@
+INICIO DO JOGO
+pinguin filhote azul no gelo
+pinguin adulto azul no gelo
+atravessar
+descer pinguin adulto azul 
+atravessar 
+pinguin filhote verde no gelo
+atravessar
+descer pinguin filhote azul
+atravessar 
+pinguin adulto verde no gelo
+atravessar
+descer pinguin adulto verde
+atravessar 
+pinguin filhote vermelho no gelo
+atravessar
+descer pinguin filhote verde 
+atravessar
+pinguin adulto vermelho no gelo
+atravessar
+descer pinguin adulto vermelho
+descer pinguin filhote vermelho 
+FIM DE JOGO

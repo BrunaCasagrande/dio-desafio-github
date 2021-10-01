@@ -1,0 +1,25 @@
+INÍCIO-DIA
+acordei
+levantei da cama
+fui ate a cozinha
+preparei meu cafe
+tomei meu cafe
+fui ao banheiro
+escovei os dentes
+fui ate o quarto
+troquei de roupa
+fui ao meu trabalho
+trabalhei
+voltei para minha casa
+tomei banho
+jantei 
+escovei os dentes
+tomei banho
+vesti meu pijama
+liguei o computador
+estudei
+joguei tibia
+desliguei o computador
+deitei na cama
+dormi
+FIM-DIA
